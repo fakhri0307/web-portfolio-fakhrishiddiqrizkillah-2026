@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import cert1 from "../img/certificate/c_built_vue.jpg";
 import cert2 from "../img/certificate/c_cyberlabs.png";
-import cert3 from "../img/certificate/c_dicoding.png";
+import certDicod from "../img/certificate/c_dicoding.png";
 import cert5 from "../img/certificate/c_satu_code.jpg";
 import cert7 from "../img/certificate/c_event_vue.png";
 import cert8 from "../img/certificate/c_import_vue.jpg";
@@ -15,7 +15,7 @@ function Certificate() {
     { id: 1, title: "Vue Basics", issuer: "Built Vue", year: 2020, image: cert1 },
     { id: 2, title: "Cybersecurity Labs", issuer: "Cyberlabs", year: 2021, image: cert2 },
     { id: 8, title: "Import Vue Pro", issuer: "Import Vue", year: 2024, image: cert8 },
-    { id: 3, title: "Dicoding Expert", issuer: "Dicoding", year: 2021, image: cert3 },
+    { id: 3, title: "Dicoding Expert", issuer: "Dicoding", year: 2021, image: certDicod },
     { id: 7, title: "Vue Event Workshop", issuer: "Event Vue", year: 2023, image: cert7 },
     { id: 5, title: "Satu Code Mastery", issuer: "Satu Code", year: 2022, image: cert5 },
     { id: 10, title: "Intro Vue", issuer: "Vue", year: 2021, image: cert10 },
