@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import cert1 from "../img/certificate/c_built_vue.jpg";
 import cert2 from "../img/certificate/c_cyberlabs.png";
-import certDicod from "../img/certificate/c_dicoding.png";
+import certDicod from "../img/certificate/c_dicodings.png";
 import cert5 from "../img/certificate/c_satu_code.jpg";
 import cert7 from "../img/certificate/c_event_vue.png";
 import cert8 from "../img/certificate/c_import_vue.jpg";
