@@ -3,7 +3,7 @@ import cert1 from "../img/certificate/c_built_vue.jpg";
 import cert2 from "../img/certificate/c_cyberlabs.png";
 import certDicod from "../img/certificate/c_dicodings.png";
 import cert5 from "../img/certificate/c_satu_code.jpg";
-import cert7 from "../img/certificate/c_event_vue.png";
+import cert7 from "../img/certificate/c_event_vuejs.png";
 import cert8 from "../img/certificate/c_import_vue.jpg";
 import cert9 from "../img/certificate/c_intro_figma.png";
 import cert10 from "../img/certificate/c_intro_vue.jpg";
